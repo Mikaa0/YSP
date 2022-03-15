@@ -2,5 +2,8 @@
 public class JavaClass {
 dfghjthgdfsddcdvfd;
 \
-neshto novo 
+neshto novo ;
+fdgf;;
+hdf;
+
 }
